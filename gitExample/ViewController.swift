@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         println("Hello, this is another feature:")
         
         for i in 1...10 {
-            println("\(i)ewjlrhkgkejhgf")
+            println("\(i)Hello")
         }
     }
 }
