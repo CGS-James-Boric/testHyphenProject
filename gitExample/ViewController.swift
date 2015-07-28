@@ -25,5 +25,13 @@ class ViewController: UIViewController {
     func featX() {
         println("This is an awesome feature")
     }
+    
+    func featY() {
+        println("Hello, this is another feature:")
+        
+        for i in 1...10 {
+            println(i)
+        }
+    }
 }
 
