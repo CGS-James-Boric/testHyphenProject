@@ -1,1 +1,2 @@
 .DS_Store
+gitExample.xcodeproj/project.xcworkspace/xcuserdata/jamesboric.xcuserdatad/UserInterfaceState.xcuserstate
