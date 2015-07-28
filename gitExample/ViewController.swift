@@ -32,6 +32,9 @@ class ViewController: UIViewController {
         for i in 1...10 {
             println("\(i)ewjlrhkgkejhgf")
         }
+
+        println("Yet more amazingness")
+
     }
 }
 
