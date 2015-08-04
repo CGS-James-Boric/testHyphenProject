@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 		// Dispose of any resources that can be recreated.
     }
     
-    func featQ() {
+    func featZ() {
         println("This is an awesome feature")
     }
     
